@@ -92,7 +92,7 @@ data = {
         "-city-": "Denver"
       },
       "subject": "I'm replacing the subject tag"
-    },
+    }
   ],
   "from": {
     "email": "test@example.com"
